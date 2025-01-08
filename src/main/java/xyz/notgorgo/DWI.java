@@ -11,6 +11,5 @@ public class DWI implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
 	}
 }

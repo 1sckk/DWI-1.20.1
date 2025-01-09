@@ -1,6 +1,7 @@
 {
   "item.dwi.ruby": "Ruby",
   "item.dwi.raw_ruby": "Raw Ruby",
+  "item.dwi.metal_detector": "Metal Detector",
 
   "block.dwi.ruby_block": "Block of Ruby",
   "block.dwi.raw_ruby_block": "Block of Raw Ruby",

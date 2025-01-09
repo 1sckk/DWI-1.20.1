@@ -26,6 +26,7 @@ public class ModItemGroups {
                             entries.add(ModBlocks.DEEPSLATE_RUBY_ORE);
                             entries.add(ModBlocks.NETHER_RUBY_ORE);
                             entries.add(ModBlocks.END_STONE_RUBY_ORE);
+                            entries.add(ModItems.METAL_DETECTOR);
 
 
                         }).build());

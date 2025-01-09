@@ -2,5 +2,8 @@
   "item.dwi.ruby": "Ruby",
   "item.dwi.raw_ruby": "Raw Ruby",
 
+  "block.dwi.ruby_block": "Block of Ruby",
+  "block.dwi.raw_ruby_block": "Block of raw Ruby",
+
   "itemgroup.ruby": "Ores/Gems and ingots"
 }

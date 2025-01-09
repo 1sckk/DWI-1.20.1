@@ -10,16 +10,19 @@ import net.minecraft.util.Identifier;
 import xyz.notgorgo.DWI;
 
 public class ModItemGroups {
-    public static final ItemGroup RUBY_GROUP = Registry.register(Registries.ITEM_GROUP,
-            new Identifier(DWI.MOD_ID, "ruby"),
-            FabricItemGroup.builder().displayName(Text.translatable("itemgroup.ruby"))
-                    .icon(() -> new ItemStack(ModItems.RUBY)).entries((displayContext, entries) -> {
-                        entries.add(ModItems.RUBY);
-                        entries.add(ModItems.RAW_RUBY);
+    public static final ItemGroup RUBY_GROUP;
+
+    static {
+        RUBY_GROUP = Registry.register(Registries.ITEM_GROUP,
+                new Identifier(DWI.MOD_ID, "ruby"),
+                FabricItemGroup.builder().displayName(Text.translatable("itemgroup.ruby"))
+                        .icon(() -> new ItemStack(ModItems.RUBY)).entries((displayContext, entries) -> {
+                            entries.add(ModItems.RUBY);
+                            entries.add(ModItems.RAW_RUBY);
 
 
-
-                    }).build());
+                        }).build());
+    }
 
     public static void registerModItemGroups() {
         DWI.LOGGER.info("Registering Mod Item Groups for" + DWI.MOD_ID);

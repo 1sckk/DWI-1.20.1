@@ -1,4 +1,4 @@
-package xyz.notgorgo.dwi.item.custom;
+package xyz.notgorgo.dwi.item;
 
 import net.minecraft.item.ArmorItem;
 import net.minecraft.item.ArmorMaterial;
@@ -6,7 +6,6 @@ import net.minecraft.recipe.Ingredient;
 import net.minecraft.sound.SoundEvent;
 import net.minecraft.sound.SoundEvents;
 import xyz.notgorgo.DWI;
-import xyz.notgorgo.dwi.item.ModItems;
 
 import java.util.function.Supplier;
 

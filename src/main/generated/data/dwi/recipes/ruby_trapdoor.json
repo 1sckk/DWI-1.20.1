@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "dwi:ruby"
+    }
+  },
+  "pattern": [
+    "   ",
+    "RRR",
+    "   "
+  ],
+  "result": {
+    "count": 3,
+    "item": "dwi:ruby_trapdoor"
+  },
+  "show_notification": true
+}

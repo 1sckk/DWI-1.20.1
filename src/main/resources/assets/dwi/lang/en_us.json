@@ -2,6 +2,11 @@
   "item.dwi.ruby": "Ruby",
   "item.dwi.raw_ruby": "Raw Ruby",
   "item.dwi.metal_detector": "Metal Detector",
+  "item.dwi.ruby_pickaxe": "Ruby Pickaxe",
+  "item.dwi.ruby_sword": "Ruby Sword",
+  "item.dwi.ruby_axe": "Ruby Axe",
+  "item.dwi.ruby_shovel": "Ruby Shovel",
+  "item.dwi.ruby_hoe": "Ruby Hoe",
 
   "block.dwi.ruby_block": "Block of Ruby",
   "block.dwi.raw_ruby_block": "Block of Raw Ruby",

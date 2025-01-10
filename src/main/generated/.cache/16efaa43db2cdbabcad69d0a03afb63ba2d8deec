@@ -1,4 +1,4 @@
-// 1.20.1	2025-01-09T22:20:06.8424981	DWI/Model Definitions
+// 1.20.1	2025-01-09T23:36:22.271224	DWI/Model Definitions
 075c56752162cd77353ee4a1d6b26fa8f8fbcc6d assets\dwi\blockstates\ruby_block.json
 0de951b6515b78419f9528e6ca5357e8c3a2a00e assets\dwi\models\block\ruby_door_top_right.json
 4a87452c047ab036552f6815c2d60d569be8c44b assets\dwi\models\block\ruby_wall_side_tall.json
@@ -6,11 +6,13 @@
 26d412f49070024776b81f39a60baed2c88f853a assets\dwi\models\block\ruby_wall_side.json
 d1dea581c8d92cc2191520656a60ed49b572484a assets\dwi\models\block\ruby_trapdoor_bottom.json
 773b12eb139c660048eaaafbe175a26c0026238d assets\dwi\models\item\metal_detector.json
+942454ba21e3857ffcf7edd6ce8817aa846b3f5f assets\dwi\models\item\ruby_axe.json
 2016037e387f6aa8e6a32d84001d3f597076fce5 assets\dwi\models\item\ruby_block.json
 202ab211566d719993ab7cb4526966a0189ffccc assets\dwi\blockstates\ruby_ore.json
 37547f7e4ca05d3530218fce7a3c939d8ca1c7fc assets\dwi\models\block\ruby_stairs_inner.json
 a9abcc12b844c83fa4c780914864673b52cb4df7 assets\dwi\models\block\ruby_door_top_left.json
 c6b4bfca4c20cc24fc12b52de8559d08629294d1 assets\dwi\blockstates\ruby_fence_gate.json
+4a7ab13480cc7733aba45d78fdddf4e070877a19 assets\dwi\models\item\ruby_shovel.json
 dbf796acaa22c9bd9ffef89fae60502a0301c4d2 assets\dwi\models\block\ruby_door_top_right_open.json
 7378e023b313504bebb9d1735965c5ddf80ea260 assets\dwi\blockstates\ruby_pressure_plate.json
 109b061128657120a35fdc1ed72fba72259c48c9 assets\dwi\models\block\ruby_fence_gate.json
@@ -37,8 +39,10 @@ c3f56446bbc29dc194ab59b9b1ce51e95f116d7b assets\dwi\models\block\ruby_pressure_p
 723640bd6b86099e20726073638c9331e4ba0062 assets\dwi\models\item\ruby_button.json
 47aa2f933d4f1edacb19771e3ea2bcf0c31fcca8 assets\dwi\blockstates\ruby_door.json
 cad20dbeb5aa6c1b1224f31654889f8b304e7076 assets\dwi\blockstates\ruby_wall.json
+791019c80912a327acca78d35884319d00427acf assets\dwi\models\item\ruby_pickaxe.json
 23742a502730d200929da28c8b3a7bbed3c11350 assets\dwi\models\item\ruby_wall.json
 0eb28b4ce7bbf785d60ecf984533a6f505e78da4 assets\dwi\models\block\ruby_wall_post.json
+1e7bcdc7ca7899f2c33a10496103f5cfddbc3f6e assets\dwi\models\item\ruby_hoe.json
 96bba6161417db3ee7c58d3aa098ca5924ccf261 assets\dwi\blockstates\ruby_slab.json
 c02cc80230fc1ed25b42f3c5c335f6eb2bdf4a86 assets\dwi\models\block\ruby_door_bottom_right_open.json
 25b540cc9e1f876acc788d3e1b87bbffe824a796 assets\dwi\models\item\ruby.json
@@ -65,6 +69,7 @@ da3b19fa51e2e254378ccb49debee1da0f873c61 assets\dwi\models\block\ruby_slab_top.j
 72cc7121cb5cbd38c583d7ff4a3211e0c78194f2 assets\dwi\models\block\ruby_wall_inventory.json
 381835037c1f4bda7ece89537b9f36455cf4e491 assets\dwi\blockstates\deepslate_ruby_ore.json
 efaa43f71b91080fd17564c2d89f994c301800b3 assets\dwi\models\block\ruby_button_pressed.json
+dc68dc141c0ee895ce308129e6b6b0b7df1cbc76 assets\dwi\models\item\ruby_sword.json
 98f6d7ccff5085bd26408a081c807144d85c532c assets\dwi\models\block\ruby_ore.json
 e5a60b5c01c87d29c269905375daea11a5218abd assets\dwi\blockstates\ruby_fence.json
 56eb43f6579955625bd1c44286ea85770bd93df7 assets\dwi\models\block\ruby_fence_post.json

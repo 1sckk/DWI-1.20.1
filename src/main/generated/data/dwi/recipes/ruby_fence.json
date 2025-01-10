@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "dwi:ruby_block"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "RSR",
+    "RSR",
+    "   "
+  ],
+  "result": {
+    "count": 3,
+    "item": "dwi:ruby_fence"
+  },
+  "show_notification": true
+}

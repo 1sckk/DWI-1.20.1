@@ -9,6 +9,15 @@
   "block.dwi.deepslate_ruby_ore": "Deepslate Ruby Ore",
   "block.dwi.nether_ruby_ore": "Nether Ruby Ore",
   "block.dwi.end_stone_ruby_ore": "End Stone Ruby Ore",
+  "block.dwi.ruby_stairs": "Ruby Stairs",
+  "block.dwi.ruby_slab": "Ruby Slab",
+  "block.dwi.ruby_button": "Ruby Button",
+  "block.dwi.ruby_pressure_plate": "Ruby Pressure Plate",
+  "block.dwi.ruby_fence": "Ruby Fence",
+  "block.dwi.ruby_fence_gate": "Ruby Fence Gate",
+  "block.dwi.ruby_wall": "Ruby Wall",
+  "block.dwi.ruby_door": "Ruby Door",
+  "block.dwi.ruby_trapdoor": "Ruby Trapdoor",
 
   "itemgroup.ruby": "Ores/Gems and ingots"
 }

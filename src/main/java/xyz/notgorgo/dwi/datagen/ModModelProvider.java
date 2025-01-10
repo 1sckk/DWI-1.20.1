@@ -23,6 +23,17 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.NETHER_RUBY_ORE);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.END_STONE_RUBY_ORE);
 
+        rubyPool.stairs(ModBlocks.RUBY_STAIRS);
+        rubyPool.slab(ModBlocks.RUBY_SLAB);
+        rubyPool.button(ModBlocks.RUBY_BUTTON);
+        rubyPool.pressurePlate(ModBlocks.RUBY_PRESSURE_PLATE);
+        rubyPool.fence(ModBlocks.RUBY_FENCE);
+        rubyPool.fenceGate(ModBlocks.RUBY_FENCE_GATE);
+        rubyPool.wall(ModBlocks.RUBY_WALL);
+
+        blockStateModelGenerator.registerDoor(ModBlocks.RUBY_DOOR);
+        blockStateModelGenerator.registerTrapdoor(ModBlocks.RUBY_TRAPDOOR);
+
     }
 
     @Override

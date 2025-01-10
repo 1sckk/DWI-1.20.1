@@ -1,7 +1,16 @@
-// 1.20.1	2025-01-09T19:32:33.7172464	DWI/Block Loot Tables
+// 1.20.1	2025-01-09T20:32:14.9996004	DWI/Block Loot Tables
+56be7e62a8fa8e9f0c5f5ef3c293b74cd764bea4 data\dwi\loot_tables\blocks\ruby_trapdoor.json
+3b68b913f32773cdc539978444960e02e2e43005 data\dwi\loot_tables\blocks\ruby_slab.json
+2a6882228b2419c99a79a28a99cbf8b57ad2517a data\dwi\loot_tables\blocks\ruby_stairs.json
+c5bf21e51bf70ca9310b008ddef3f127f3604db5 data\dwi\loot_tables\blocks\ruby_door.json
+b78ba933fe24ea353f16100820a487d46be483c0 data\dwi\loot_tables\blocks\end_stone_ruby_ore.json
+262c33fff42221ad109ec52f412d330442496d95 data\dwi\loot_tables\blocks\ruby_fence_gate.json
+6feb05687b3a054ea01c7f666ab1b955bdc3fecb data\dwi\loot_tables\blocks\ruby_button.json
+d9ed00259ac0355cc37e2a1aed4151535f26e76d data\dwi\loot_tables\blocks\ruby_pressure_plate.json
 b7ca7f8b76259e56e066dc86c86614a6a4f91722 data\dwi\loot_tables\blocks\ruby_block.json
 89ff61af679cea61c72072e5beade712f5ab791a data\dwi\loot_tables\blocks\raw_ruby_block.json
 e6926071833a5b031e117a2a70180b943cba8ca0 data\dwi\loot_tables\blocks\nether_ruby_ore.json
 48d7b53ed23f57a60d85d8e6781d274aa9ae2516 data\dwi\loot_tables\blocks\ruby_ore.json
-b78ba933fe24ea353f16100820a487d46be483c0 data\dwi\loot_tables\blocks\end_stone_ruby_ore.json
+8233086b2610dd5dee533391b593ebf3713cd0dd data\dwi\loot_tables\blocks\ruby_wall.json
+0dda19deddff9b073599ca013252fad7bb7b549c data\dwi\loot_tables\blocks\ruby_fence.json
 cbb7d202a5b9d5bd3e639dad2b9b6530269ae30d data\dwi\loot_tables\blocks\deepslate_ruby_ore.json

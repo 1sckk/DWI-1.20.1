@@ -1,0 +1,22 @@
+// 1.20.1	2025-01-09T19:32:33.7182517	DWI/Model Definitions
+075c56752162cd77353ee4a1d6b26fa8f8fbcc6d assets\dwi\blockstates\ruby_block.json
+030c298997e57002ba8779ffe5644019c919ecf6 assets\dwi\models\item\nether_ruby_ore.json
+d53713e05dec661b53609dd917f31aec8005ad45 assets\dwi\blockstates\raw_ruby_block.json
+203a78f2a8185f79e11e4e465da265afdc81f702 assets\dwi\models\item\end_stone_ruby_ore.json
+d7e6233668ca9fc1c6b83d47aded829e637072a4 assets\dwi\models\block\end_stone_ruby_ore.json
+5218b1252cc13069008e0bd3cd52ccd5ebd899b5 assets\dwi\models\block\ruby_block.json
+2dbf7322b343dc07c038e9f6a861fb076da44b05 assets\dwi\models\item\raw_ruby.json
+c3f453c191cc25a0882163391c1b9ffa122bacdc assets\dwi\blockstates\end_stone_ruby_ore.json
+773b12eb139c660048eaaafbe175a26c0026238d assets\dwi\models\item\metal_detector.json
+2b468eaf9d5ffcffe2284c93924e17eaf2314627 assets\dwi\models\item\deepslate_ruby_ore.json
+a5c4287e6387c5cb628634311ae0e9ac766261f8 assets\dwi\models\block\raw_ruby_block.json
+205c8f6478a4f8517be8518f1eb0bc3c3f946dfe assets\dwi\models\block\deepslate_ruby_ore.json
+53dfa0690021a88c1907fdc1bf54825c7329ca7c assets\dwi\models\item\raw_ruby_block.json
+25b540cc9e1f876acc788d3e1b87bbffe824a796 assets\dwi\models\item\ruby.json
+2016037e387f6aa8e6a32d84001d3f597076fce5 assets\dwi\models\item\ruby_block.json
+77e6da025770c64331c551965370d61ff3495889 assets\dwi\models\item\ruby_ore.json
+becc2339eec72893b56395395dc1db589deb21d6 assets\dwi\blockstates\nether_ruby_ore.json
+202ab211566d719993ab7cb4526966a0189ffccc assets\dwi\blockstates\ruby_ore.json
+381835037c1f4bda7ece89537b9f36455cf4e491 assets\dwi\blockstates\deepslate_ruby_ore.json
+98f6d7ccff5085bd26408a081c807144d85c532c assets\dwi\models\block\ruby_ore.json
+b5344afa582d20806f974d07d675bc13d64f4c1e assets\dwi\models\block\nether_ruby_ore.json

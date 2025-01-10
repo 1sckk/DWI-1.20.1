@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dwi:block/ruby_block"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+// 1.20.1	2025-01-09T19:32:33.7182517	DWI/Tags for minecraft:block
+87e478fc167aafe6a848f27d56e207bb207f9d07 data\minecraft\tags\blocks\needs_iron_tool.json
+6a6166f974491137b9a4854111eeebe868fdf5c5 data\dwi\tags\blocks\metal_detector_detectable_blocks.json
+65efafedd96e899f33b5875a711a947def63df26 data\minecraft\tags\blocks\needs_stone_tool.json
+5bb898d2d69018f7f51d06f0bb23c9aa6b1f9ffb data\fabric\tags\blocks\needs_tool_level_4.json
+3f3804b9663fe0869d5d44490e2bfe6e1aef95a6 data\minecraft\tags\blocks\mineable\pickaxe.json
+c0f0cc93d54e00c2b400c32b7a26b8500f0ec7b3 data\minecraft\tags\blocks\needs_diamond_tool.json

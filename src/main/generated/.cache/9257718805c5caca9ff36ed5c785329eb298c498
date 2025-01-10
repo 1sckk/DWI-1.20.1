@@ -1,0 +1,7 @@
+// 1.20.1	2025-01-09T19:32:33.7172464	DWI/Block Loot Tables
+b7ca7f8b76259e56e066dc86c86614a6a4f91722 data\dwi\loot_tables\blocks\ruby_block.json
+89ff61af679cea61c72072e5beade712f5ab791a data\dwi\loot_tables\blocks\raw_ruby_block.json
+e6926071833a5b031e117a2a70180b943cba8ca0 data\dwi\loot_tables\blocks\nether_ruby_ore.json
+48d7b53ed23f57a60d85d8e6781d274aa9ae2516 data\dwi\loot_tables\blocks\ruby_ore.json
+b78ba933fe24ea353f16100820a487d46be483c0 data\dwi\loot_tables\blocks\end_stone_ruby_ore.json
+cbb7d202a5b9d5bd3e639dad2b9b6530269ae30d data\dwi\loot_tables\blocks\deepslate_ruby_ore.json

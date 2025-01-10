@@ -26,6 +26,10 @@ public class ModItemGroups {
                             entries.add(ModItems.RUBY_SWORD);
                             entries.add(ModItems.RUBY_HOE);
 
+                            entries.add(ModItems.RUBY_HELMET);
+                            entries.add(ModItems.RUBY_CHESTPLATE);
+                            entries.add(ModItems.RUBY_LEGGINGS);
+                            entries.add(ModItems.RUBY_BOOTS);
 
                             entries.add(ModBlocks.RUBY_BLOCK);
                             entries.add(ModBlocks.RAW_RUBY_BLOCK);
@@ -33,7 +37,9 @@ public class ModItemGroups {
                             entries.add(ModBlocks.DEEPSLATE_RUBY_ORE);
                             entries.add(ModBlocks.NETHER_RUBY_ORE);
                             entries.add(ModBlocks.END_STONE_RUBY_ORE);
+
                             entries.add(ModItems.METAL_DETECTOR);
+
                             entries.add(ModBlocks.RUBY_STAIRS);
                             entries.add(ModBlocks.RUBY_SLAB);
                             entries.add(ModBlocks.RUBY_BUTTON);

@@ -18,6 +18,7 @@ public class ModItems {
     public static final Item METAL_DETECTOR = registerItem("metal_detector",
             new MetalDetectorItem(new FabricItemSettings().maxDamage(64)));
 
+
 private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
     entries.add(ModItems.RUBY);
     entries.add(ModItems.RAW_RUBY);

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "dwi:ruby"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "R R"
+  ],
+  "result": {
+    "item": "dwi:ruby_helmet"
+  },
+  "show_notification": true
+}

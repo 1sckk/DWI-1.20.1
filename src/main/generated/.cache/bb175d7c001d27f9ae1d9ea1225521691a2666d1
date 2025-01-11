@@ -1,4 +1,4 @@
-// 1.20.1	2025-01-10T17:34:52.170792	DWI/Recipes
+// 1.20.1	2025-01-10T21:18:33.2792965	DWI/Recipes
 3cb69188fb254bb21f6e8fcc4886343c753d8209 data\dwi\advancements\recipes\misc\ruby_from_smelting_deepslate_ruby_ore.json
 fc3bc8d23f6c2548cc1cd064f5a336833ea46a8c data\dwi\recipes\ruby_sword.json
 5b82f75f6c00e4b069a87149ac465c4daf5bf940 data\dwi\recipes\ruby_from_smelting_deepslate_ruby_ore.json
@@ -10,9 +10,12 @@ b03ab8e9bef4fc24107d7badc5f3d40d49a1b23a data\dwi\recipes\ruby_from_blasting_rub
 c9fcf63a386842b011df2a2f0289fd114428351e data\dwi\advancements\recipes\misc\raw_ruby.json
 c2b6426e2f70dbbb46c1a706c211ede219c5df0f data\dwi\advancements\recipes\misc\ruby_stairs.json
 737ded8034c0c739f6538dce2d9b67e69993a5c4 data\dwi\advancements\recipes\misc\ruby_from_smelting_ruby_ore.json
+9f34543c64d24cdaf830ea2439cff4c32676e635 data\dwi\advancements\recipes\misc\ruby_leggings.json
 d68b243e9140df25fd04c87dbdbfacd7ba9c6df6 data\dwi\recipes\ruby_from_smelting_nether_ruby_ore.json
+21fa6dc6fa3c7e85cf11fbb219f2db482f0abb76 data\dwi\recipes\ruby_helmet.json
 9fad7fb26a0f10e1a32034013e478da99a0a2df5 data\dwi\advancements\recipes\misc\ruby_pickaxe.json
 eaf3c348ed0f94380f172eb832663cd97e847211 data\dwi\advancements\recipes\misc\ruby_block.json
+66c20e3e93be926d4c483706755933b3de61abea data\dwi\advancements\recipes\misc\ruby_boots.json
 e672ab48f65f97f02f348edaf4c539f3dd7cf023 data\dwi\recipes\ruby_from_blasting_raw_ruby.json
 d3f62b53f24308a038f8105bc8f976f6beffcf43 data\dwi\advancements\recipes\misc\ruby_hoe.json
 05f34ab2f2b5adc3272f6187326ee1f68eee4d00 data\dwi\advancements\recipes\misc\ruby_button.json
@@ -23,6 +26,7 @@ e2b9b5ccd9c8e4e61f5d9c6d2b84001d20bfb8ce data\dwi\recipes\raw_ruby.json
 7e6b330880ee0d4eb7b21180746a7766ce51e58b data\dwi\recipes\ruby_pickaxe.json
 7fb13cddc4c4a9ba06eeb95b71653c8b852502d5 data\dwi\recipes\ruby_from_smelting_ruby_ore.json
 95f68aa0813657438e03efa5e65c165e482487da data\dwi\advancements\recipes\misc\ruby_from_blasting_end_stone_ruby_ore.json
+0dc161d248d4fe95b001885d91a0a3b49d372ad1 data\dwi\recipes\ruby_boots.json
 12038cc42a631ee0c76a79f69e87eea848907f94 data\dwi\advancements\recipes\misc\ruby_from_blasting_ruby_ore.json
 c5cb7c0724d19a87bb5edecafedfd2053d55fd31 data\dwi\advancements\recipes\misc\ruby_shovel.json
 ab19f0b821c8b402e4ec07c7b004425eb101353b data\dwi\advancements\recipes\misc\metal_detector.json
@@ -33,10 +37,13 @@ d1cb8a007852b80741791bd429cac6e4b44c218a data\dwi\advancements\recipes\misc\ruby
 991aef803244bec8c764f9a61d05ce0f70bb7c39 data\dwi\advancements\recipes\misc\ruby_pressure_plate.json
 b900cc767de096e81852912c90d68b8dfcb9968d data\dwi\advancements\recipes\redstone\ruby_door.json
 6141d4db063936334ee6cf32f6ffb6ab8e5476ae data\dwi\recipes\ruby_pressure_plate.json
+8ece376f8d15555480fcde24d4efaec29732ea50 data\dwi\recipes\ruby_chestplate.json
 f9e39c347064bebdce736e67cf398f18d5475604 data\dwi\recipes\ruby_trapdoor.json
 d286e47ffeb05c0f6dddccb9d923edfe456a565c data\dwi\recipes\ruby_block.json
 4dd674c81b97fb0317fea763ba16f8405f6c9677 data\dwi\recipes\ruby_axe.json
+6755c2ca37a7273a68db0a10ca3f73b8df17c72d data\dwi\recipes\ruby_leggings.json
 99d88f9e51ac0f008cff4765ec7b6dad2d39dab5 data\dwi\advancements\recipes\building_blocks\ruby.json
+3c18ec0cb65fa3d2d51ad8b71ef7877998d59302 data\dwi\advancements\recipes\misc\ruby_chestplate.json
 cd7cad78845df83d93e126885248ae4a1355ce84 data\dwi\advancements\recipes\misc\ruby_from_blasting_nether_ruby_ore.json
 7604076529288cbc4f04280cc53eab239b405799 data\dwi\recipes\ruby.json
 df432ea501503970fc00f9670eadb277f3ae2b55 data\dwi\advancements\recipes\misc\ruby_sword.json
@@ -52,6 +59,7 @@ fd3ac195332b0cc94a4f3d47ad9e22dfd58e67bc data\dwi\recipes\metal_detector.json
 7288b64a9ef7d7fd1a72ff3058d111d74a5473c9 data\dwi\recipes\ruby_door.json
 535c8dba99f6e4a03e3dedfbe5970e7b06f6fe4a data\dwi\advancements\recipes\misc\ruby_from_blasting_raw_ruby.json
 d408d2ce0cc6b72eb9741c1fbb405f2fd9efd4d1 data\dwi\recipes\ruby_from_blasting_end_stone_ruby_ore.json
+2918dc2d38a11b5230f75d07058ea4db8063e9ef data\dwi\advancements\recipes\misc\ruby_helmet.json
 f05f37b5c25e89b1a9e759073005a5e3e9546052 data\dwi\recipes\ruby_shovel.json
 c00b94372b31285cb74ab7d23dadea062e79a26d data\dwi\advancements\recipes\misc\ruby_from_smelting_nether_ruby_ore.json
 419270d85143a6a55a4ba2618c77188d9947ed7d data\dwi\advancements\recipes\misc\ruby_axe.json

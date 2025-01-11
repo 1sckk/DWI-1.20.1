@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "dwi:ruby"
+    }
+  },
+  "pattern": [
+    "   ",
+    "R R",
+    "R R"
+  ],
+  "result": {
+    "item": "dwi:ruby_boots"
+  },
+  "show_notification": true
+}

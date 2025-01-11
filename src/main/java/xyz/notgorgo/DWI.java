@@ -7,6 +7,7 @@ import org.slf4j.LoggerFactory;
 import xyz.notgorgo.dwi.block.ModBlocks;
 import xyz.notgorgo.dwi.item.ModItemGroups;
 import xyz.notgorgo.dwi.item.ModItems;
+import xyz.notgorgo.dwi.world.gen.ModWorldGeneration;
 
 public class DWI implements ModInitializer {
 	public static final String MOD_ID = "dwi";
@@ -18,5 +19,6 @@ public class DWI implements ModInitializer {
 		ModItems.registerModItems();
 		ModItemGroups.registerModItemGroups();
 		ModBlocks.registerModBlocks();
+		ModWorldGeneration.generateModWorldGen();
 	}
 }

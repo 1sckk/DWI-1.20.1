@@ -1,4 +1,4 @@
-// 1.20.1	2025-01-11T01:17:55.4510052	DWI/Recipes
+// 1.20.1	2025-01-11T02:26:45.6222525	DWI/Recipes
 3cb69188fb254bb21f6e8fcc4886343c753d8209 data\dwi\advancements\recipes\misc\ruby_from_smelting_deepslate_ruby_ore.json
 fc3bc8d23f6c2548cc1cd064f5a336833ea46a8c data\dwi\recipes\ruby_sword.json
 5b82f75f6c00e4b069a87149ac465c4daf5bf940 data\dwi\recipes\ruby_from_smelting_deepslate_ruby_ore.json
@@ -20,8 +20,8 @@ e672ab48f65f97f02f348edaf4c539f3dd7cf023 data\dwi\recipes\ruby_from_blasting_raw
 d3f62b53f24308a038f8105bc8f976f6beffcf43 data\dwi\advancements\recipes\misc\ruby_hoe.json
 05f34ab2f2b5adc3272f6187326ee1f68eee4d00 data\dwi\advancements\recipes\misc\ruby_button.json
 d8e6f2a03200d0c83128e1fd74432982c6c5ebd7 data\dwi\recipes\ruby_from_blasting_nether_ruby_ore.json
-e2b9b5ccd9c8e4e61f5d9c6d2b84001d20bfb8ce data\dwi\recipes\raw_ruby.json
 434d84cc353f1108f79404cb0defda285f36a9a5 data\dwi\advancements\recipes\misc\ruby_from_blasting_deepslate_ruby_ore.json
+e2b9b5ccd9c8e4e61f5d9c6d2b84001d20bfb8ce data\dwi\recipes\raw_ruby.json
 2ac5b4925c070cef9e38107cea227893c1c3d91a data\dwi\recipes\ruby_button.json
 7e6b330880ee0d4eb7b21180746a7766ce51e58b data\dwi\recipes\ruby_pickaxe.json
 7fb13cddc4c4a9ba06eeb95b71653c8b852502d5 data\dwi\recipes\ruby_from_smelting_ruby_ore.json

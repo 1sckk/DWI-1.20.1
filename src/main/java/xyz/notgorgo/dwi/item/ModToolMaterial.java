@@ -7,7 +7,14 @@ import java.util.function.Supplier;
 
 public enum ModToolMaterial implements ToolMaterial {
     RUBY(5, 650, 4.5f, 3.5f, 26,
-            () -> Ingredient.ofItems(ModItems.RUBY));
+            () -> Ingredient.ofItems(ModItems.RUBY)),
+    SAPPHIRE(4, 650, 4.5f, 3.5f, 26,
+            () -> Ingredient.ofItems(ModItems.SAPPHIRE)),
+    ;
+
+
+
+
 
     private final int miningLevel;
     private final int itemDurability;

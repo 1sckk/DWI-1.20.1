@@ -59,6 +59,17 @@ public class ModItemGroups {
                             entries.add(ModBlocks.SAPPHIRE_FENCE_GATE);
                             entries.add(ModBlocks.SAPPHIRE_WALL);
 
+                            entries.add(ModItems.SAPPHIRE_PICKAXE);
+                            entries.add(ModItems.SAPPHIRE_AXE);
+                            entries.add(ModItems.SAPPHIRE_SHOVEL);
+                            entries.add(ModItems.SAPPHIRE_SWORD);
+                            entries.add(ModItems.SAPPHIRE_HOE);
+
+                            entries.add(ModItems.SAPPHIRE_HELMET);
+                            entries.add(ModItems.SAPPHIRE_CHESTPLATE);
+                            entries.add(ModItems.SAPPHIRE_LEGGINGS);
+                            entries.add(ModItems.SAPPHIRE_BOOTS);
+
 
                         }).build());
     }

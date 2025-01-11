@@ -4,7 +4,6 @@ package xyz.notgorgo.dwi.item;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
-import net.minecraft.block.Block;
 import net.minecraft.item.*;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
@@ -41,6 +40,26 @@ public class ModItems {
 
 
     public static final Item SAPPHIRE = registerItem("sapphire", new Item(new FabricItemSettings()));
+
+    public static final Item SAPPHIRE_PICKAXE = registerItem("sapphire_pickaxe",
+            new PickaxeItem(ModToolMaterial.SAPPHIRE, 2, 2f, new FabricItemSettings()));
+    public static final Item SAPPHIRE_AXE = registerItem("sapphire_axe",
+            new AxeItem(ModToolMaterial.SAPPHIRE, 3, 1f, new FabricItemSettings()));
+    public static final Item SAPPHIRE_SHOVEL = registerItem("sapphire_shovel",
+            new ShovelItem(ModToolMaterial.SAPPHIRE, 0, 0f, new FabricItemSettings()));
+    public static final Item SAPPHIRE_SWORD = registerItem("sapphire_sword",
+            new SwordItem(ModToolMaterial.SAPPHIRE, 5, 3f, new FabricItemSettings()));
+    public static final Item SAPPHIRE_HOE = registerItem("sapphire_hoe",
+            new HoeItem(ModToolMaterial.SAPPHIRE, 0, 0f, new FabricItemSettings()));
+
+    public static final Item SAPPHIRE_HELMET = registerItem("sapphire_helmet",
+            new ModArmorItem(ModArmorMaterials.SAPPHIRE, ArmorItem.Type.HELMET, new FabricItemSettings()));
+    public static final Item SAPPHIRE_CHESTPLATE = registerItem("sapphire_chestplate",
+            new ArmorItem(ModArmorMaterials.SAPPHIRE, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+    public static final Item SAPPHIRE_LEGGINGS = registerItem("sapphire_leggings",
+            new ArmorItem(ModArmorMaterials.SAPPHIRE, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
+    public static final Item SAPPHIRE_BOOTS = registerItem("sapphire_boots",
+            new ArmorItem(ModArmorMaterials.SAPPHIRE, ArmorItem.Type.BOOTS, new FabricItemSettings()));
 
 
 

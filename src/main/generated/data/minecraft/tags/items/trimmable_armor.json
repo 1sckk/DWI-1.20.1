@@ -4,6 +4,10 @@
     "dwi:ruby_helmet",
     "dwi:ruby_chestplate",
     "dwi:ruby_leggings",
-    "dwi:ruby_boots"
+    "dwi:ruby_boots",
+    "dwi:sapphire_helmet",
+    "dwi:sapphire_chestplate",
+    "dwi:sapphire_leggings",
+    "dwi:sapphire_boots"
   ]
 }

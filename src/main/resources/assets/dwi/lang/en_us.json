@@ -15,8 +15,29 @@
   "item.dwi.ruby_leggings": "Ruby Leggings",
   "item.dwi.ruby_boots": "Ruby Boots",
 
+  "block.dwi.ruby_stairs": "Ruby Stairs",
+  "block.dwi.ruby_slab": "Ruby Slab",
+  "block.dwi.ruby_button": "Ruby Button",
+  "block.dwi.ruby_pressure_plate": "Ruby Pressure Plate",
+  "block.dwi.ruby_fence": "Ruby Fence",
+  "block.dwi.ruby_fence_gate": "Ruby Fence Gate",
+  "block.dwi.ruby_wall": "Ruby Wall",
+  "block.dwi.ruby_door": "Ruby Door",
+  "block.dwi.ruby_trapdoor": "Ruby Trapdoor",
+
 
   "item.dwi.sapphire": "Sapphire",
+
+  "item.dwi.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.dwi.sapphire_sword": "Sapphire Sword",
+  "item.dwi.sapphire_axe": "Sapphire Axe",
+  "item.dwi.sapphire_shovel": "Sapphire Shovel",
+  "item.dwi.sapphire_hoe": "Sapphire Hoe",
+
+  "item.dwi.sapphire_helmet": "Sapphire Helmet",
+  "item.dwi.sapphire_chestplate": "Sapphire Chestplate",
+  "item.dwi.sapphire_leggings": "Sapphire Leggings",
+  "item.dwi.sapphire_boots": "Sapphire Boots",
 
   "block.dwi.ruby_block": "Block of Ruby",
   "block.dwi.raw_ruby_block": "Block of Raw Ruby",
@@ -33,15 +54,7 @@
   "block.dwi.sapphire_wall": "Sapphire Wall",
 
 
-  "block.dwi.ruby_stairs": "Ruby Stairs",
-  "block.dwi.ruby_slab": "Ruby Slab",
-  "block.dwi.ruby_button": "Ruby Button",
-  "block.dwi.ruby_pressure_plate": "Ruby Pressure Plate",
-  "block.dwi.ruby_fence": "Ruby Fence",
-  "block.dwi.ruby_fence_gate": "Ruby Fence Gate",
-  "block.dwi.ruby_wall": "Ruby Wall",
-  "block.dwi.ruby_door": "Ruby Door",
-  "block.dwi.ruby_trapdoor": "Ruby Trapdoor",
+
 
   "itemgroup.ruby": "Ores/Gems and ingots"
 }

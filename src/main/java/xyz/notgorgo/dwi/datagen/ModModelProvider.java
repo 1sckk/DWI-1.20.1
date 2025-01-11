@@ -58,13 +58,25 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.RUBY_SWORD, Models.HANDHELD);
         itemModelGenerator.register(ModItems.RUBY_HOE, Models.HANDHELD);
 
-        itemModelGenerator.register(ModItems.SAPPHIRE, Models.GENERATED);
-
-
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.RUBY_HELMET));
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.RUBY_CHESTPLATE));
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.RUBY_LEGGINGS));
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.RUBY_BOOTS));
+
+
+        itemModelGenerator.register(ModItems.SAPPHIRE, Models.GENERATED);
+
+        itemModelGenerator.register(ModItems.SAPPHIRE_PICKAXE, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.SAPPHIRE_AXE, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.SAPPHIRE_SHOVEL, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.SAPPHIRE_SWORD, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.SAPPHIRE_HOE, Models.HANDHELD);
+
+        itemModelGenerator.registerArmor(((ArmorItem) ModItems.SAPPHIRE_HELMET));
+        itemModelGenerator.registerArmor(((ArmorItem) ModItems.SAPPHIRE_CHESTPLATE));
+        itemModelGenerator.registerArmor(((ArmorItem) ModItems.SAPPHIRE_LEGGINGS));
+        itemModelGenerator.registerArmor(((ArmorItem) ModItems.SAPPHIRE_BOOTS));
+
 
 
 

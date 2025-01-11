@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "dwi:ruby_fence_gate"
+    "dwi:ruby_fence_gate",
+    "dwi:sapphire_fence_gate"
   ]
 }

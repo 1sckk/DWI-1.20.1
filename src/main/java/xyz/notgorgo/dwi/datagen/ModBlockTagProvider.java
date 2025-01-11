@@ -12,6 +12,8 @@ import xyz.notgorgo.dwi.util.ModTags;
 
 import java.util.concurrent.CompletableFuture;
 
+import static com.ibm.icu.util.LocalePriorityList.add;
+
 public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
     public ModBlockTagProvider(FabricDataOutput output, CompletableFuture<RegistryWrapper.WrapperLookup> registriesFuture) {
         super(output, registriesFuture);
@@ -36,7 +38,11 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.RUBY_ORE)
                 .add(ModBlocks.DEEPSLATE_RUBY_ORE)
                 .add(ModBlocks.NETHER_RUBY_ORE)
-                .add(ModBlocks.END_STONE_RUBY_ORE);
+                .add(ModBlocks.END_STONE_RUBY_ORE)
+
+
+                .add(ModBlocks.SAPPHIRE_BLOCK);
+
 
         getOrCreateTagBuilder(BlockTags.NEEDS_STONE_TOOL)
                 .add(ModBlocks.RUBY_BLOCK);
@@ -45,7 +51,7 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.RUBY_ORE);
 
         getOrCreateTagBuilder(BlockTags.NEEDS_DIAMOND_TOOL)
-                .add(ModBlocks.RAW_RUBY_BLOCK);
+                .add(ModBlocks.RAW_RUBY_BLOCK, ModBlocks.SAPPHIRE_BLOCK);
 
         getOrCreateTagBuilder(TagKey.of(RegistryKeys.BLOCK, new Identifier("fabric", "needs_tool_level_4")))
                 .add(ModBlocks.DEEPSLATE_RUBY_ORE);
@@ -58,6 +64,14 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.RUBY_FENCE_GATE);
         getOrCreateTagBuilder(BlockTags.WALLS)
                 .add(ModBlocks.RUBY_WALL);
+
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.SAPPHIRE_FENCE);
+        getOrCreateTagBuilder(BlockTags.FENCE_GATES)
+                .add(ModBlocks.SAPPHIRE_FENCE_GATE);
+        getOrCreateTagBuilder(BlockTags.WALLS)
+                .add(ModBlocks.SAPPHIRE_WALL);
+
 
     }
 }

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dwi:block/sapphire_slab"
+    },
+    "type=double": {
+      "model": "dwi:block/sapphire_block"
+    },
+    "type=top": {
+      "model": "dwi:block/sapphire_slab_top"
+    }
+  }
+}

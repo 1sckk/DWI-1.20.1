@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "dwi:raw_ruby_block"
+    "dwi:raw_ruby_block",
+    "dwi:sapphire_block"
   ]
 }

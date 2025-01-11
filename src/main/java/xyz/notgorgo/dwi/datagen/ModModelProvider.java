@@ -32,6 +32,14 @@ public class ModModelProvider extends FabricModelProvider {
         rubyPool.fenceGate(ModBlocks.RUBY_FENCE_GATE);
         rubyPool.wall(ModBlocks.RUBY_WALL);
 
+
+        BlockStateModelGenerator.BlockTexturePool sapphirePool = blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.SAPPHIRE_BLOCK);
+        sapphirePool.stairs(ModBlocks.SAPPHIRE_STAIRS);
+        sapphirePool.slab(ModBlocks.SAPPHIRE_SLAB);
+        sapphirePool.fenceGate(ModBlocks.SAPPHIRE_FENCE_GATE);
+        sapphirePool.fence(ModBlocks.SAPPHIRE_FENCE);
+        sapphirePool.wall(ModBlocks.SAPPHIRE_WALL);
+
         blockStateModelGenerator.registerDoor(ModBlocks.RUBY_DOOR);
         blockStateModelGenerator.registerTrapdoor(ModBlocks.RUBY_TRAPDOOR);
 
@@ -50,10 +58,16 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.RUBY_SWORD, Models.HANDHELD);
         itemModelGenerator.register(ModItems.RUBY_HOE, Models.HANDHELD);
 
+        itemModelGenerator.register(ModItems.SAPPHIRE, Models.GENERATED);
+
+
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.RUBY_HELMET));
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.RUBY_CHESTPLATE));
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.RUBY_LEGGINGS));
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.RUBY_BOOTS));
+
+
+
 
 
     }

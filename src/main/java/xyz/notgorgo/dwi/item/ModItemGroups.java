@@ -51,6 +51,15 @@ public class ModItemGroups {
                             entries.add(ModBlocks.RUBY_TRAPDOOR);
 
 
+                            entries.add(ModItems.SAPPHIRE);
+                            entries.add(ModBlocks.SAPPHIRE_BLOCK);
+                            entries.add(ModBlocks.SAPPHIRE_STAIRS);
+                            entries.add(ModBlocks.SAPPHIRE_SLAB);
+                            entries.add(ModBlocks.SAPPHIRE_FENCE);
+                            entries.add(ModBlocks.SAPPHIRE_FENCE_GATE);
+                            entries.add(ModBlocks.SAPPHIRE_WALL);
+
+
                         }).build());
     }
 

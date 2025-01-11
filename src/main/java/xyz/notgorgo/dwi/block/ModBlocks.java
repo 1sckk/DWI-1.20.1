@@ -54,6 +54,20 @@ public class ModBlocks {
     public static final Block RUBY_TRAPDOOR = registerBlock("ruby_trapdoor",
             new TrapdoorBlock(FabricBlockSettings.copyOf(Blocks.IRON_TRAPDOOR), BlockSetType.IRON));
 
+    public static final Block SAPPHIRE_BLOCK = registerBlock("sapphire_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).sounds(BlockSoundGroup.AMETHYST_BLOCK)));
+    public static final Block SAPPHIRE_STAIRS = registerBlock("sapphire_stairs",
+            new StairsBlock(ModBlocks.RUBY_BLOCK.getDefaultState(), FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
+    public static final Block SAPPHIRE_SLAB = registerBlock("sapphire_slab",
+            new SlabBlock(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
+    public static final Block SAPPHIRE_FENCE = registerBlock("sapphire_fence",
+            new FenceBlock(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
+    public static final Block SAPPHIRE_FENCE_GATE = registerBlock("sapphire_fence_gate",
+            new FenceGateBlock(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK), WoodType.ACACIA));
+    public static final Block SAPPHIRE_WALL = registerBlock("sapphire_wall",
+            new WallBlock(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
+
+
 
     private static Block registerBlock(String name, Block block){
         registerBlockItem(name, block);

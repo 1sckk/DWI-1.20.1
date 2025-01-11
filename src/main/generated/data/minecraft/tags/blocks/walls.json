@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "dwi:ruby_wall"
+    "dwi:ruby_wall",
+    "dwi:sapphire_wall"
   ]
 }

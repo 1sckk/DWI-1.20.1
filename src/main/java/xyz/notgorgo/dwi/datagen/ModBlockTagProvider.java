@@ -40,7 +40,7 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.NETHER_RUBY_ORE)
                 .add(ModBlocks.END_STONE_RUBY_ORE)
 
-
+                //Sapphire
                 .add(ModBlocks.SAPPHIRE_BLOCK);
 
 

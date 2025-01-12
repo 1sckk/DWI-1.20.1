@@ -4,9 +4,11 @@ import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricRecipeProvider;
 import net.minecraft.data.server.recipe.RecipeJsonProvider;
 import net.minecraft.data.server.recipe.ShapedRecipeJsonBuilder;
+import net.minecraft.data.server.recipe.ShapelessRecipeJsonBuilder;
 import net.minecraft.item.ItemConvertible;
 import net.minecraft.item.Items;
 import net.minecraft.recipe.Ingredient;
+import net.minecraft.recipe.ShapelessRecipe;
 import net.minecraft.recipe.book.RecipeCategory;
 import net.minecraft.util.Identifier;
 import xyz.notgorgo.dwi.block.ModBlocks;
@@ -188,12 +190,116 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .criterion(hasItem(ModItems.RUBY), conditionsFromItem(ModItems.RUBY))
                 .offerTo(exporter, new Identifier(getRecipeName(ModItems.RUBY_BOOTS)));
 
+        //Sapphire stuff
 
-
-
-
-
-
+        ShapelessRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SAPPHIRE, 9)
+                .input(ModBlocks.SAPPHIRE_BLOCK)
+                .criterion(hasItem(ModBlocks.SAPPHIRE_BLOCK), conditionsFromItem(ModBlocks.SAPPHIRE_BLOCK))
+                .offerTo(exporter, new Identifier(getRecipeName(ModItems.SAPPHIRE)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SAPPHIRE_PICKAXE, 1)
+                .pattern("RRR")
+                .pattern(" S ")
+                .pattern(" S ")
+                .input('R', ModItems.SAPPHIRE)
+                .input('S', Items.STICK)
+                .criterion(hasItem(ModItems.SAPPHIRE), conditionsFromItem(ModItems.SAPPHIRE))
+                .criterion(hasItem(Items.STICK), conditionsFromItem(Items.STICK))
+                .offerTo(exporter, new Identifier(getRecipeName(ModItems.SAPPHIRE_PICKAXE)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SAPPHIRE_AXE, 1)
+                .pattern("RRR")
+                .pattern(" SR")
+                .pattern(" S ")
+                .input('R', ModItems.SAPPHIRE)
+                .input('S', Items.STICK)
+                .criterion(hasItem(ModItems.SAPPHIRE), conditionsFromItem(ModItems.SAPPHIRE))
+                .criterion(hasItem(Items.STICK), conditionsFromItem(Items.STICK))
+                .offerTo(exporter, new Identifier(getRecipeName(ModItems.SAPPHIRE_AXE)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SAPPHIRE_SHOVEL, 1)
+                .pattern(" R ")
+                .pattern(" S ")
+                .pattern(" S ")
+                .input('R', ModItems.SAPPHIRE)
+                .input('S', Items.STICK)
+                .criterion(hasItem(ModItems.SAPPHIRE), conditionsFromItem(ModItems.SAPPHIRE))
+                .criterion(hasItem(Items.STICK), conditionsFromItem(Items.STICK))
+                .offerTo(exporter, new Identifier(getRecipeName(ModItems.SAPPHIRE_SHOVEL)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SAPPHIRE_SWORD, 1)
+                .pattern(" R ")
+                .pattern(" R ")
+                .pattern(" S ")
+                .input('R', ModItems.SAPPHIRE)
+                .input('S', Items.STICK)
+                .criterion(hasItem(ModItems.SAPPHIRE), conditionsFromItem(ModItems.SAPPHIRE))
+                .criterion(hasItem(Items.STICK), conditionsFromItem(Items.STICK))
+                .offerTo(exporter, new Identifier(getRecipeName(ModItems.SAPPHIRE_SWORD)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SAPPHIRE_HOE, 1)
+                .pattern("RR ")
+                .pattern(" S ")
+                .pattern(" S ")
+                .input('R', ModItems.SAPPHIRE)
+                .input('S', Items.STICK)
+                .criterion(hasItem(ModItems.SAPPHIRE), conditionsFromItem(ModItems.SAPPHIRE))
+                .criterion(hasItem(Items.STICK), conditionsFromItem(Items.STICK))
+                .offerTo(exporter, new Identifier(getRecipeName(ModItems.SAPPHIRE_HOE)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.SAPPHIRE_STAIRS, 4)
+                .pattern("R  ")
+                .pattern("RR ")
+                .pattern("RRR")
+                .input('R', ModBlocks.SAPPHIRE_BLOCK)
+                .criterion(hasItem(ModBlocks.SAPPHIRE_BLOCK), conditionsFromItem(ModBlocks.SAPPHIRE_BLOCK))
+                .offerTo(exporter, new Identifier(getRecipeName(ModBlocks.SAPPHIRE_STAIRS)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.SAPPHIRE_SLAB, 6)
+                .pattern("RRR")
+                .input('R', ModBlocks.SAPPHIRE_BLOCK)
+                .criterion(hasItem(ModBlocks.SAPPHIRE_BLOCK), conditionsFromItem(ModBlocks.SAPPHIRE_BLOCK))
+                .offerTo(exporter, new Identifier(getRecipeName(ModBlocks.SAPPHIRE_SLAB)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.SAPPHIRE_WALL, 3)
+                .pattern("RRR")
+                .pattern("RRR")
+                .input('R', ModBlocks.SAPPHIRE_BLOCK)
+                .criterion(hasItem(ModBlocks.SAPPHIRE_BLOCK), conditionsFromItem(ModBlocks.SAPPHIRE_BLOCK))
+                .offerTo(exporter, new Identifier(getRecipeName(ModBlocks.SAPPHIRE_WALL)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.SAPPHIRE_FENCE, 3)
+                .pattern("RSR")
+                .pattern("RSR")
+                .input('R', ModBlocks.SAPPHIRE_BLOCK)
+                .input('S', Items.STICK)
+                .criterion(hasItem(ModBlocks.SAPPHIRE_BLOCK), conditionsFromItem(ModBlocks.SAPPHIRE_BLOCK))
+                .offerTo(exporter, new Identifier(getRecipeName(ModBlocks.SAPPHIRE_FENCE)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModBlocks.SAPPHIRE_FENCE_GATE, 3)
+                .pattern("SRS")
+                .pattern("SRS")
+                .input('R', ModBlocks.SAPPHIRE_BLOCK)
+                .input('S', Items.STICK)
+                .criterion(hasItem(ModBlocks.SAPPHIRE_BLOCK), conditionsFromItem(ModBlocks.SAPPHIRE_BLOCK))
+                .offerTo(exporter, new Identifier(getRecipeName(ModBlocks.SAPPHIRE_FENCE_GATE)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SAPPHIRE_HELMET, 1)
+                .pattern("RRR")
+                .pattern("R R")
+                .input('R', ModItems.SAPPHIRE)
+                .criterion(hasItem(ModItems.SAPPHIRE), conditionsFromItem(ModItems.SAPPHIRE))
+                .offerTo(exporter, new Identifier(getRecipeName(ModItems.SAPPHIRE_HELMET)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SAPPHIRE_CHESTPLATE, 1)
+                .pattern("R R")
+                .pattern("RRR")
+                .pattern("RRR")
+                .input('R', ModItems.SAPPHIRE)
+                .criterion(hasItem(ModItems.SAPPHIRE), conditionsFromItem(ModItems.SAPPHIRE))
+                .offerTo(exporter, new Identifier(getRecipeName(ModItems.SAPPHIRE_CHESTPLATE)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SAPPHIRE_LEGGINGS, 1)
+                .pattern("RRR")
+                .pattern("R R")
+                .pattern("R R")
+                .input('R', ModItems.SAPPHIRE)
+                .criterion(hasItem(ModItems.SAPPHIRE), conditionsFromItem(ModItems.SAPPHIRE))
+                .offerTo(exporter, new Identifier(getRecipeName(ModItems.SAPPHIRE_LEGGINGS)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.SAPPHIRE_BOOTS, 1)
+                .pattern("   ")
+                .pattern("R R")
+                .pattern("R R")
+                .input('R', ModItems.SAPPHIRE)
+                .criterion(hasItem(ModItems.SAPPHIRE), conditionsFromItem(ModItems.SAPPHIRE))
+                .offerTo(exporter, new Identifier(getRecipeName(ModItems.SAPPHIRE_BOOTS)));
 
 
 

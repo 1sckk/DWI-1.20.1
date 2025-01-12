@@ -1,4 +1,4 @@
-// 1.20.1	2025-01-11T02:26:45.6294182	DWI/Model Definitions
+// 1.20.1	2025-01-11T21:48:03.2398036	DWI/Model Definitions
 2a918f58b585b5c3aa7b1d4b789f71a3a1e8e4d1 assets\dwi\models\item\sapphire_leggings_quartz_trim.json
 ed64ddfef35823e40155ba37c39d65e32aaa0a86 assets\dwi\models\item\sapphire_boots_lapis_trim.json
 2f19b125907901b441bb2ab1add6cb48d59a437b assets\dwi\models\item\sapphire_chestplate_gold_trim.json
@@ -65,8 +65,8 @@ ec684008c425f2053e53976ee4ef4f5a7c83c919 assets\dwi\models\item\ruby_helmet_iron
 8327916327aba97f76026d6b1986350c099c4e76 assets\dwi\models\item\ruby_slab.json
 23742a502730d200929da28c8b3a7bbed3c11350 assets\dwi\models\item\ruby_wall.json
 1e7bcdc7ca7899f2c33a10496103f5cfddbc3f6e assets\dwi\models\item\ruby_hoe.json
-3728d592a54d9fc72970bd1805f061c4ee63c608 assets\dwi\blockstates\sapphire_fence.json
 f457c6d6ab99fc437cd82605344fe5833165e553 assets\dwi\models\block\sapphire_wall_inventory.json
+3728d592a54d9fc72970bd1805f061c4ee63c608 assets\dwi\blockstates\sapphire_fence.json
 efa227b1275c56e34bf367439ee422131077a339 assets\dwi\models\item\sapphire.json
 6b0cbb46f2623da3d0914b7191858f1baf74fa9c assets\dwi\models\item\ruby_chestplate_emerald_trim.json
 1d8c76cbb079ae2ea047be04b823b435941fcd8c assets\dwi\models\block\ruby_fence_gate_wall_open.json
@@ -113,8 +113,8 @@ b81176a0d45e63116ad52bdfafbdec8a9b03e19d assets\dwi\models\item\sapphire_helmet.
 949dacbc78b9bc784cb820f9f0edec2440d44abc assets\dwi\models\item\ruby_fence.json
 79718a942fba84fe6cfbfa5140903e4dd4bd98a3 assets\dwi\models\item\ruby_boots_copper_trim.json
 43f3e8f0bb287600f3e5726d4510354854d34fc7 assets\dwi\models\item\sapphire_leggings_redstone_trim.json
-47aa2f933d4f1edacb19771e3ea2bcf0c31fcca8 assets\dwi\blockstates\ruby_door.json
 cad20dbeb5aa6c1b1224f31654889f8b304e7076 assets\dwi\blockstates\ruby_wall.json
+47aa2f933d4f1edacb19771e3ea2bcf0c31fcca8 assets\dwi\blockstates\ruby_door.json
 791019c80912a327acca78d35884319d00427acf assets\dwi\models\item\ruby_pickaxe.json
 2276a193909435ea4d1fcb265c9726d99f4dafd1 assets\dwi\models\item\ruby_chestplate_quartz_trim.json
 7088bb65fb9e0d4c72e52e0b89458affdb7723e6 assets\dwi\models\item\sapphire_wall.json
@@ -161,8 +161,8 @@ e786f6b786aa3cf1e87b599aa4c3183397f33c32 assets\dwi\models\item\ruby_leggings.js
 642482ac2eca760f874cf7acc73e5c3b239dbc0a assets\dwi\models\item\ruby_boots_gold_trim.json
 169f31500e328c1000885de006eb386cd6ac9ff6 assets\dwi\models\block\ruby_door_top_left_open.json
 5e62884813e9e93f5ba4f31d714a8882faefff80 assets\dwi\models\item\ruby_chestplate_gold_trim.json
-edad47463f5c1d2f374556dc993bebe9a009bdd5 assets\dwi\models\item\ruby_boots_netherite_trim.json
 f3a96a888637f7f9a8022f12280ef0109cc90793 assets\dwi\models\item\sapphire_leggings_diamond_trim.json
+edad47463f5c1d2f374556dc993bebe9a009bdd5 assets\dwi\models\item\ruby_boots_netherite_trim.json
 07cf75de9c6a01c5983ffa0858b139d23bd008f4 assets\dwi\models\item\ruby_helmet_redstone_trim.json
 c3f56446bbc29dc194ab59b9b1ce51e95f116d7b assets\dwi\models\block\ruby_pressure_plate.json
 5e49437bce68b3c28bfeb929ba5562d6310c148c assets\dwi\models\item\ruby_leggings_emerald_trim.json

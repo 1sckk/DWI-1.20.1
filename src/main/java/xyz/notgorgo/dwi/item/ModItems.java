@@ -13,6 +13,8 @@ import xyz.notgorgo.dwi.item.custom.MetalDetectorItem;
 import xyz.notgorgo.dwi.item.custom.ModArmorItem;
 
 public class ModItems {
+
+    //Ruby
     public static final Item RUBY = registerItem("ruby", new Item(new FabricItemSettings()));
     public static final Item RAW_RUBY = registerItem("raw_ruby", new Item(new FabricItemSettings()));
     public static final Item METAL_DETECTOR = registerItem("metal_detector",
@@ -39,6 +41,7 @@ public class ModItems {
             new ArmorItem(ModArmorMaterials.RUBY, ArmorItem.Type.BOOTS, new FabricItemSettings()));
 
 
+   //Sapphire
     public static final Item SAPPHIRE = registerItem("sapphire", new Item(new FabricItemSettings()));
 
     public static final Item SAPPHIRE_PICKAXE = registerItem("sapphire_pickaxe",

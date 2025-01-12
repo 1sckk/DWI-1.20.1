@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "dwi:sapphire"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "RRR",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "item": "dwi:sapphire_pickaxe"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "dwi:sapphire"
+    }
+  },
+  "pattern": [
+    "   ",
+    "R R",
+    "R R"
+  ],
+  "result": {
+    "item": "dwi:sapphire_boots"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "dwi:sapphire"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " R ",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "item": "dwi:sapphire_shovel"
+  },
+  "show_notification": true
+}

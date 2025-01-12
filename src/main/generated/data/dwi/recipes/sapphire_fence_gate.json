@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "dwi:sapphire_block"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "SRS",
+    "SRS"
+  ],
+  "result": {
+    "count": 3,
+    "item": "dwi:sapphire_fence_gate"
+  },
+  "show_notification": true
+}

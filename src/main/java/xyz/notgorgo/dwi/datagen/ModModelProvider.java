@@ -64,6 +64,7 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.registerArmor(((ArmorItem) ModItems.RUBY_BOOTS));
 
 
+        //Sapphire
         itemModelGenerator.register(ModItems.SAPPHIRE, Models.GENERATED);
 
         itemModelGenerator.register(ModItems.SAPPHIRE_PICKAXE, Models.HANDHELD);

@@ -18,6 +18,8 @@ public class ModItemGroups {
                 new Identifier(DWI.MOD_ID, "ruby"),
                 FabricItemGroup.builder().displayName(Text.translatable("itemgroup.ruby"))
                         .icon(() -> new ItemStack(ModItems.RUBY)).entries((displayContext, entries) -> {
+
+                           //Ruby
                             entries.add(ModItems.RUBY);
                             entries.add(ModItems.RAW_RUBY);
                             entries.add(ModItems.RUBY_PICKAXE);
@@ -51,6 +53,7 @@ public class ModItemGroups {
                             entries.add(ModBlocks.RUBY_TRAPDOOR);
 
 
+                            //Sapphire
                             entries.add(ModItems.SAPPHIRE);
                             entries.add(ModBlocks.SAPPHIRE_BLOCK);
                             entries.add(ModBlocks.SAPPHIRE_STAIRS);

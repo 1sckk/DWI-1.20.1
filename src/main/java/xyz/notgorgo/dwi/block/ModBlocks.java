@@ -54,6 +54,14 @@ public class ModBlocks {
     public static final Block RUBY_TRAPDOOR = registerBlock("ruby_trapdoor",
             new TrapdoorBlock(FabricBlockSettings.copyOf(Blocks.IRON_TRAPDOOR), BlockSetType.IRON));
 
+
+    //Sapphire
+    public static final Block SAPPHIRE_ORE = registerBlock("sapphire_ore",
+            new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.STONE).strength(2.0f, 3.0f), UniformIntProvider.create(2, 5)));
+
+    public static final Block DEEPSLATE_SAPPHIRE_ORE = registerBlock("deepslate_sapphire_ore",
+            new ExperienceDroppingBlock(FabricBlockSettings.copyOf(Blocks.DEEPSLATE).strength(4f, 3f), UniformIntProvider.create(2, 5)));
+
     public static final Block SAPPHIRE_BLOCK = registerBlock("sapphire_block",
             new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).sounds(BlockSoundGroup.AMETHYST_BLOCK)));
     public static final Block SAPPHIRE_STAIRS = registerBlock("sapphire_stairs",

@@ -38,6 +38,8 @@
   "item.dwi.sapphire_chestplate": "Sapphire Chestplate",
   "item.dwi.sapphire_leggings": "Sapphire Leggings",
   "item.dwi.sapphire_boots": "Sapphire Boots",
+  "block.dwi.sapphire_ore": "Sapphire Ore",
+  "block.dwi.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
 
   "block.dwi.ruby_block": "Block of Ruby",
   "block.dwi.raw_ruby_block": "Block of Raw Ruby",

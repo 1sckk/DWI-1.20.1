@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "dwi:ruby_ore"
+    "dwi:ruby_ore",
+    "dwi:sapphire_ore"
   ]
 }

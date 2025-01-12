@@ -1,11 +1,11 @@
-// 1.20.1	2025-01-11T21:48:03.2388026	DWI/Tags for minecraft:block
-2c59bffcf2b7a0f0eb24ba77060dd0b110b57265 data\minecraft\tags\blocks\needs_iron_tool.json
-65efafedd96e899f33b5875a711a947def63df26 data\minecraft\tags\blocks\needs_stone_tool.json
+// 1.20.1	2025-01-12T10:47:11.3427921	DWI/Tags for minecraft:block
+914b6de3f9f1889b529740f7c9280e452d5be8e6 data\minecraft\tags\blocks\needs_iron_tool.json
 6a6166f974491137b9a4854111eeebe868fdf5c5 data\dwi\tags\blocks\metal_detector_detectable_blocks.json
-c0f0cc93d54e00c2b400c32b7a26b8500f0ec7b3 data\fabric\tags\blocks\needs_tool_level_4.json
+65efafedd96e899f33b5875a711a947def63df26 data\minecraft\tags\blocks\needs_stone_tool.json
+1e384a8fd7bb2cc97f70c3430cbd32fb1e00f525 data\fabric\tags\blocks\needs_tool_level_4.json
 8e25829ab49e0054de5b0b03dd4989567cae2fb2 data\minecraft\tags\blocks\fence_gates.json
 9828e950153465c8a3660a1553d4db68966d130b data\minecraft\tags\blocks\walls.json
 5bb898d2d69018f7f51d06f0bb23c9aa6b1f9ffb data\fabric\tags\blocks\needs_tool_level_5.json
-52ba4d87085b29b12de6a9b0c6eefb4d86cd3839 data\minecraft\tags\blocks\mineable\pickaxe.json
+b0df253993e72564b5eff7047abb04a17a8972e5 data\minecraft\tags\blocks\mineable\pickaxe.json
 63462026147ffece09b62277195ca5ac817040c6 data\minecraft\tags\blocks\needs_diamond_tool.json
 ae50b872954a0be0bd188af4fab36c2a91e0b237 data\minecraft\tags\blocks\fences.json

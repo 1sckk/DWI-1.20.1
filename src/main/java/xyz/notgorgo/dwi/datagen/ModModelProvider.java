@@ -32,8 +32,12 @@ public class ModModelProvider extends FabricModelProvider {
         rubyPool.fenceGate(ModBlocks.RUBY_FENCE_GATE);
         rubyPool.wall(ModBlocks.RUBY_WALL);
 
+        //Sapphire
 
         BlockStateModelGenerator.BlockTexturePool sapphirePool = blockStateModelGenerator.registerCubeAllModelTexturePool(ModBlocks.SAPPHIRE_BLOCK);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.SAPPHIRE_ORE);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.DEEPSLATE_SAPPHIRE_ORE);
+
         sapphirePool.stairs(ModBlocks.SAPPHIRE_STAIRS);
         sapphirePool.slab(ModBlocks.SAPPHIRE_SLAB);
         sapphirePool.fenceGate(ModBlocks.SAPPHIRE_FENCE_GATE);

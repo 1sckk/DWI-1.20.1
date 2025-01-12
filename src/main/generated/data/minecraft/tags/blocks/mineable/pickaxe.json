@@ -7,6 +7,22 @@
     "dwi:deepslate_ruby_ore",
     "dwi:nether_ruby_ore",
     "dwi:end_stone_ruby_ore",
+    "dwi:ruby_fence",
+    "dwi:ruby_fence_gate",
+    "dwi:ruby_wall",
+    "dwi:ruby_door",
+    "dwi:ruby_trapdoor",
+    "dwi:ruby_button",
+    "dwi:ruby_pressure_plate",
+    "dwi:ruby_stairs",
+    "dwi:ruby_slab",
+    "dwi:sapphire_ore",
+    "dwi:deepslate_sapphire_ore",
+    "dwi:sapphire_wall",
+    "dwi:sapphire_fence",
+    "dwi:sapphire_fence_gate",
+    "dwi:sapphire_stairs",
+    "dwi:sapphire_slab",
     "dwi:sapphire_block"
   ]
 }

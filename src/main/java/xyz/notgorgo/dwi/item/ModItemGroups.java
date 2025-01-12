@@ -61,6 +61,8 @@ public class ModItemGroups {
                             entries.add(ModBlocks.SAPPHIRE_FENCE);
                             entries.add(ModBlocks.SAPPHIRE_FENCE_GATE);
                             entries.add(ModBlocks.SAPPHIRE_WALL);
+                            entries.add(ModBlocks.SAPPHIRE_ORE);
+                            entries.add(ModBlocks.DEEPSLATE_SAPPHIRE_ORE);
 
                             entries.add(ModItems.SAPPHIRE_PICKAXE);
                             entries.add(ModItems.SAPPHIRE_AXE);

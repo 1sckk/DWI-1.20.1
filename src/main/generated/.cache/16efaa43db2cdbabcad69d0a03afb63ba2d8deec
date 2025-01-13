@@ -1,4 +1,4 @@
-// 1.20.1	2025-01-12T10:47:11.3438029	DWI/Model Definitions
+// 1.20.1	2025-01-12T19:06:07.9972628	DWI/Model Definitions
 2a918f58b585b5c3aa7b1d4b789f71a3a1e8e4d1 assets\dwi\models\item\sapphire_leggings_quartz_trim.json
 ed64ddfef35823e40155ba37c39d65e32aaa0a86 assets\dwi\models\item\sapphire_boots_lapis_trim.json
 2f19b125907901b441bb2ab1add6cb48d59a437b assets\dwi\models\item\sapphire_chestplate_gold_trim.json
@@ -92,8 +92,8 @@ e5a60b5c01c87d29c269905375daea11a5218abd assets\dwi\blockstates\ruby_fence.json
 2016037e387f6aa8e6a32d84001d3f597076fce5 assets\dwi\models\item\ruby_block.json
 734a8f0f2910775364f60a00726d7e8b09f7bf1a assets\dwi\models\item\sapphire_helmet_diamond_trim.json
 37547f7e4ca05d3530218fce7a3c939d8ca1c7fc assets\dwi\models\block\ruby_stairs_inner.json
-dbf796acaa22c9bd9ffef89fae60502a0301c4d2 assets\dwi\models\block\ruby_door_top_right_open.json
 4a7ab13480cc7733aba45d78fdddf4e070877a19 assets\dwi\models\item\ruby_shovel.json
+dbf796acaa22c9bd9ffef89fae60502a0301c4d2 assets\dwi\models\block\ruby_door_top_right_open.json
 599588f19b14333270ad9a542fc127e8fff863d7 assets\dwi\models\item\sapphire_helmet_amethyst_trim.json
 109b061128657120a35fdc1ed72fba72259c48c9 assets\dwi\models\block\ruby_fence_gate.json
 7378e023b313504bebb9d1735965c5ddf80ea260 assets\dwi\blockstates\ruby_pressure_plate.json
@@ -116,8 +116,8 @@ b81176a0d45e63116ad52bdfafbdec8a9b03e19d assets\dwi\models\item\sapphire_helmet.
 949dacbc78b9bc784cb820f9f0edec2440d44abc assets\dwi\models\item\ruby_fence.json
 79718a942fba84fe6cfbfa5140903e4dd4bd98a3 assets\dwi\models\item\ruby_boots_copper_trim.json
 43f3e8f0bb287600f3e5726d4510354854d34fc7 assets\dwi\models\item\sapphire_leggings_redstone_trim.json
-47aa2f933d4f1edacb19771e3ea2bcf0c31fcca8 assets\dwi\blockstates\ruby_door.json
 cad20dbeb5aa6c1b1224f31654889f8b304e7076 assets\dwi\blockstates\ruby_wall.json
+47aa2f933d4f1edacb19771e3ea2bcf0c31fcca8 assets\dwi\blockstates\ruby_door.json
 791019c80912a327acca78d35884319d00427acf assets\dwi\models\item\ruby_pickaxe.json
 2276a193909435ea4d1fcb265c9726d99f4dafd1 assets\dwi\models\item\ruby_chestplate_quartz_trim.json
 7088bb65fb9e0d4c72e52e0b89458affdb7723e6 assets\dwi\models\item\sapphire_wall.json

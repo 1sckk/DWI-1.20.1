@@ -1,5 +1,8 @@
-// 1.20.1	2025-01-12T10:47:11.3417828	DWI/Block Loot Tables
+// 1.20.1	2025-01-12T19:06:07.9951899	DWI/Block Loot Tables
 56be7e62a8fa8e9f0c5f5ef3c293b74cd764bea4 data\dwi\loot_tables\blocks\ruby_trapdoor.json
+c8dc11ddb073ac402d691058f7afd711c7df639a data\dwi\loot_tables\blocks\sapphire_ore.json
+54a0f9d145938c80ed90bbcf823966c90c3cf210 data\dwi\loot_tables\blocks\sapphire_fence.json
+9374b4c085f048b65f1cdf0399bb4537fa0f84b1 data\dwi\loot_tables\blocks\sapphire_wall.json
 3b68b913f32773cdc539978444960e02e2e43005 data\dwi\loot_tables\blocks\ruby_slab.json
 2a6882228b2419c99a79a28a99cbf8b57ad2517a data\dwi\loot_tables\blocks\ruby_stairs.json
 c5bf21e51bf70ca9310b008ddef3f127f3604db5 data\dwi\loot_tables\blocks\ruby_door.json
@@ -8,9 +11,14 @@ b78ba933fe24ea353f16100820a487d46be483c0 data\dwi\loot_tables\blocks\end_stone_r
 6feb05687b3a054ea01c7f666ab1b955bdc3fecb data\dwi\loot_tables\blocks\ruby_button.json
 d9ed00259ac0355cc37e2a1aed4151535f26e76d data\dwi\loot_tables\blocks\ruby_pressure_plate.json
 b7ca7f8b76259e56e066dc86c86614a6a4f91722 data\dwi\loot_tables\blocks\ruby_block.json
+650e130142420f73b8314ece4e08cbe117c453d2 data\dwi\loot_tables\blocks\sapphire_block.json
 89ff61af679cea61c72072e5beade712f5ab791a data\dwi\loot_tables\blocks\raw_ruby_block.json
 e6926071833a5b031e117a2a70180b943cba8ca0 data\dwi\loot_tables\blocks\nether_ruby_ore.json
 48d7b53ed23f57a60d85d8e6781d274aa9ae2516 data\dwi\loot_tables\blocks\ruby_ore.json
+9851b8f8d87055f3253fb2cf6492be2253801d08 data\dwi\loot_tables\blocks\deepslate_sapphire_ore.json
 8233086b2610dd5dee533391b593ebf3713cd0dd data\dwi\loot_tables\blocks\ruby_wall.json
+0d1c42c6706775405db185c29863c2c04f839d5c data\dwi\loot_tables\blocks\sapphire_stairs.json
+87cc4eed00c5b47914b62fe360d44b2fee077b7d data\dwi\loot_tables\blocks\sapphire_fence_gate.json
 0dda19deddff9b073599ca013252fad7bb7b549c data\dwi\loot_tables\blocks\ruby_fence.json
 cbb7d202a5b9d5bd3e639dad2b9b6530269ae30d data\dwi\loot_tables\blocks\deepslate_ruby_ore.json
+e5914b597a7f853c05821d26870dab3f55851194 data\dwi\loot_tables\blocks\sapphire_slab.json

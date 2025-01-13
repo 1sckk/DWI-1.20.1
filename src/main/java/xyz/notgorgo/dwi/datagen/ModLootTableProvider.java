@@ -31,6 +31,9 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.DEEPSLATE_RUBY_ORE, copperLikeOreDrops(ModBlocks.DEEPSLATE_RUBY_ORE, ModItems.RAW_RUBY));
         addDrop(ModBlocks.NETHER_RUBY_ORE, copperLikeOreDrops(ModBlocks.NETHER_RUBY_ORE, ModItems.RAW_RUBY));
         addDrop(ModBlocks.END_STONE_RUBY_ORE, copperLikeOreDrops(ModBlocks.END_STONE_RUBY_ORE, ModItems.RAW_RUBY));
+        addDrop(ModBlocks.DEEPSLATE_SAPPHIRE_ORE,copperLikeOreDrops(ModBlocks.DEEPSLATE_SAPPHIRE_ORE, ModItems.SAPPHIRE));
+        addDrop(ModBlocks.SAPPHIRE_ORE,copperLikeOreDrops(ModBlocks.SAPPHIRE_ORE, ModItems.SAPPHIRE));
+
 
         addDrop(ModBlocks.RUBY_STAIRS);
         addDrop(ModBlocks.RUBY_TRAPDOOR);
@@ -42,6 +45,14 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
 
         addDrop(ModBlocks.RUBY_DOOR, doorDrops(ModBlocks.RUBY_DOOR));
         addDrop(ModBlocks.RUBY_SLAB, slabDrops(ModBlocks.RUBY_SLAB));
+
+        addDrop(ModBlocks.SAPPHIRE_BLOCK);
+        addDrop(ModBlocks.SAPPHIRE_SLAB);
+        addDrop(ModBlocks.SAPPHIRE_STAIRS);
+        addDrop(ModBlocks.SAPPHIRE_FENCE);
+        addDrop(ModBlocks.SAPPHIRE_FENCE_GATE);
+        addDrop(ModBlocks.SAPPHIRE_WALL);
+
     }
 
     public LootTable.Builder copperLikeOreDrops(Block drop, Item item) {

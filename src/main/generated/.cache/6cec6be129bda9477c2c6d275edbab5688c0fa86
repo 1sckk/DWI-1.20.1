@@ -1,9 +1,9 @@
-// 1.20.1	2025-01-12T19:06:08.0008189	DWI/World Gen
+// 1.20.1	2025-01-15T19:49:09.9168381	DWI/World Gen
 a20e213ee0ea20493f69200f8268f5c1a762bf77 data\dwi\worldgen\placed_feature\end_ruby_ore_placed.json
 d91446a82e4ab79f965b3984d7ce5afb91086562 data\dwi\worldgen\configured_feature\sapphire_ore.json
 bdf0ed6ac751dd5f9984ad5a6ea27e889a21d130 data\dwi\worldgen\configured_feature\nether_ruby_ore.json
-5afcc43005f7e9b3f4fc764c658975c049da2332 data\dwi\worldgen\placed_feature\sapphire_ore_placed.json
 75a480c69f114ee6dcc968f2ba0c4bbf6c5d3c35 data\dwi\worldgen\placed_feature\ruby_ore_placed.json
+5afcc43005f7e9b3f4fc764c658975c049da2332 data\dwi\worldgen\placed_feature\sapphire_ore_placed.json
 ea660162eb7bf43bdf00f47cc5e990e02afefdb0 data\dwi\worldgen\placed_feature\nether_ruby_ore_placed.json
 4fc7991b0169fb07370e1711e580376f0641604f data\dwi\worldgen\configured_feature\end_ruby_ore.json
 e0d03dc088d95f5a00d45ca37b9c3a4e65f2e6b6 data\dwi\worldgen\configured_feature\ruby_ore.json

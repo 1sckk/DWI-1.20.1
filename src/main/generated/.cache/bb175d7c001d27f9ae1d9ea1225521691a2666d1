@@ -1,8 +1,8 @@
-// 1.20.1	2025-01-12T19:06:07.9890548	DWI/Recipes
+// 1.20.1	2025-01-15T19:49:09.9030057	DWI/Recipes
 3cb69188fb254bb21f6e8fcc4886343c753d8209 data\dwi\advancements\recipes\misc\ruby_from_smelting_deepslate_ruby_ore.json
 fc3bc8d23f6c2548cc1cd064f5a336833ea46a8c data\dwi\recipes\ruby_sword.json
-5b82f75f6c00e4b069a87149ac465c4daf5bf940 data\dwi\recipes\ruby_from_smelting_deepslate_ruby_ore.json
 1331adb1dda1a2dc7794e1e7236285f2ac80608c data\dwi\advancements\recipes\misc\ruby_from_smelting_raw_ruby.json
+5b82f75f6c00e4b069a87149ac465c4daf5bf940 data\dwi\recipes\ruby_from_smelting_deepslate_ruby_ore.json
 2a2b018714ae4af1a9239fc2d42337b5e9bafbd1 data\dwi\recipes\ruby_fence.json
 339cd1749122b5c1feafc04c7d13c10e12927f9b data\dwi\advancements\recipes\misc\ruby_from_smelting_end_stone_ruby_ore.json
 b03ab8e9bef4fc24107d7badc5f3d40d49a1b23a data\dwi\recipes\ruby_from_blasting_ruby_ore.json
@@ -29,8 +29,8 @@ d3f62b53f24308a038f8105bc8f976f6beffcf43 data\dwi\advancements\recipes\misc\ruby
 05f34ab2f2b5adc3272f6187326ee1f68eee4d00 data\dwi\advancements\recipes\misc\ruby_button.json
 bf2379449e0bd7dada2724f9ffc9d145bbad637a data\dwi\recipes\sapphire_leggings.json
 d8e6f2a03200d0c83128e1fd74432982c6c5ebd7 data\dwi\recipes\ruby_from_blasting_nether_ruby_ore.json
-434d84cc353f1108f79404cb0defda285f36a9a5 data\dwi\advancements\recipes\misc\ruby_from_blasting_deepslate_ruby_ore.json
 e2b9b5ccd9c8e4e61f5d9c6d2b84001d20bfb8ce data\dwi\recipes\raw_ruby.json
+434d84cc353f1108f79404cb0defda285f36a9a5 data\dwi\advancements\recipes\misc\ruby_from_blasting_deepslate_ruby_ore.json
 b0fe174e4f41ed158707f623555e5e6196499ac3 data\dwi\recipes\sapphire_chestplate.json
 fed69bab289abbabf1c0d1ec1b9a7d88bfb7ce3b data\dwi\advancements\recipes\misc\sapphire_leggings.json
 2ac5b4925c070cef9e38107cea227893c1c3d91a data\dwi\recipes\ruby_button.json

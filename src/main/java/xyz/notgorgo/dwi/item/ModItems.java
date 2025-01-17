@@ -24,7 +24,7 @@ public class ModItems {
              new Item(new FabricItemSettings().maxCount(1)));
 
     public static final Item DAGGER = registerItem("dagger",
-            new Item(new FabricItemSettings().maxCount(1).maxDamage(200)));
+            new SwordItem(ToolMaterials.NETHERITE, 2, 2f, new FabricItemSettings()));
 
 
     public static final Item RUBY_PICKAXE = registerItem("ruby_pickaxe",

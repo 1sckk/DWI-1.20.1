@@ -23,6 +23,9 @@ public class ModItems {
     public static final Item RUBY_STAFF = registerItem("ruby_staff",
              new Item(new FabricItemSettings().maxCount(1)));
 
+    public static final Item DAGGER = registerItem("dagger",
+            new Item(new FabricItemSettings().maxCount(1).maxDamage(200)));
+
 
     public static final Item RUBY_PICKAXE = registerItem("ruby_pickaxe",
             new PickaxeItem(ModToolMaterial.RUBY, 2, 2f, new FabricItemSettings()));

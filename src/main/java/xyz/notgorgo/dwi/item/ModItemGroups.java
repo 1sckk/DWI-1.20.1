@@ -52,6 +52,7 @@ public class ModItemGroups {
                             entries.add(ModBlocks.RUBY_DOOR);
                             entries.add(ModBlocks.RUBY_TRAPDOOR);
                             entries.add(ModItems.RUBY_STAFF);
+                            entries.add(ModItems.DAGGER);
 
 
                             //Sapphire

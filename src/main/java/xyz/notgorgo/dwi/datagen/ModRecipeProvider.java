@@ -300,6 +300,15 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .input('R', ModItems.SAPPHIRE)
                 .criterion(hasItem(ModItems.SAPPHIRE), conditionsFromItem(ModItems.SAPPHIRE))
                 .offerTo(exporter, new Identifier(getRecipeName(ModItems.SAPPHIRE_BOOTS)));
+        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.DAGGER, 1)
+                .pattern("   ")
+                .pattern(" N ")
+                .pattern(" S ")
+                .input('N', Items.NETHERITE_INGOT)
+                .input('S', Items.STICK)
+                .criterion(hasItem(Items.NETHERITE_INGOT), conditionsFromItem(Items.NETHERITE_INGOT))
+                .criterion(hasItem(Items.STICK), conditionsFromItem(Items.STICK))
+                .offerTo(exporter, new Identifier(getRecipeName(ModItems.DAGGER)));
 
 
 
